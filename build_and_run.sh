@@ -1,1 +1,1 @@
-./build.sh && ./sippo
+./build.sh && ./pf
