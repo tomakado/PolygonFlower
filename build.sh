@@ -1,0 +1,1 @@
+g++ ini.hpp Vector2d.hpp PolygonFlower.hpp && g++ main.cpp ini.cpp Vector2d.cpp PolygonFlower.cpp -o sippo -std=c++11 -lpthread -lsfml-graphics -lsfml-window -lsfml-system
